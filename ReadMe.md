@@ -5,7 +5,7 @@
 かけないことはもちろん書きません。笑
 
 ## ブログ
-https://whitelionx.hatenablog.jp/
+https://whitelionx.hatenablog.jp/  
 ブログに書くコードもここに追記していこうかなと思います。
 
 ## そもそも目指しているところ（理想/Goal）
